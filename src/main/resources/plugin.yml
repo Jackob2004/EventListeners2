@@ -1,0 +1,6 @@
+name: EventListener2
+version: '${project.version}'
+main: me.shadow_warrior_.eventlistener2.EventListener2
+api-version: 1.16
+authors: [ shadow_warrior_ ]
+description: EventListeners2
